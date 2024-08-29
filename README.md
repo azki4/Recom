@@ -11,10 +11,3 @@ python app.py
 
 data/movielens/ml-100k/
 
-### Example requirements.txt
-```plaintext
-numpy
-pandas
-scikit-learn
-surprise
-flask
