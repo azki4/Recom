@@ -5,6 +5,7 @@ This project is a simple recommendation system that suggests items to users base
 ## Installation
 Clone the repository:
    ```bash
+https://github.com/azki4/Recom
 
 cd recommendation-system
 pip install -r requirements.txt
